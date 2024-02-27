@@ -1,0 +1,3 @@
+the sample space must contain at least more then 1/(1-alpha) samples
+for alpha = 0.9 davon 
+calibration at least 1/0.1 = 10

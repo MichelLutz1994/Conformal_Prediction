@@ -1,0 +1,15 @@
+[flake8]
+ignore = F403,F405, E203, W504, W503, W605, E711
+max-line-length = 100
+exclude =
+    migrations
+    __pycache__
+    __pypackages__
+    manage.py
+    settings.py
+    env
+    .env
+    .venv
+    venv
+    donation_planner/input/exper.py
+

@@ -1,0 +1,18 @@
+confidence 
+- who likely is a alternative prediction to the point prediction
+
+credibility
+- how likely is the point prediction
+
+1. construct a good heuristic uncertanty estimation (with NN)
+	- batch normalisation
+	- early stopping
+	- dropout (maybe worsesn the effect - see Guo et. all.)
+	- penalizing low entropy regularisation
+	- label smoothing
+	- focal loss
+	
+
+p-value ( p(X| H_o = true) 
+	in conformal prediction -> H_o hypothesis of randomness: data is IID
+	-> lower p-value -> data is more strange with respect to the other datapoints

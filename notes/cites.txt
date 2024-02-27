@@ -1,0 +1,10 @@
+“Uncertainty is an uncomfortable position. But certainty is an absurd one.”
+― Voltaire 
+
+According to Stanford Uni-
+versity Prof. Emmanuel Candes: “Predictive models are used to make decisions that can
+have enormous consequences for people’s lives. It’s extremely important to understand
+the uncertainty about these predictions, so people don’t make decisions based on false
+beliefs” [131].
+https://news.stanford.edu/2021/03/19/honesty-statistical-models/
+
